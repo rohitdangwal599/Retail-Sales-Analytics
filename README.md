@@ -39,5 +39,5 @@ End-to-end Power BI commercial analytics solution evaluating multi-category reta
 ---
 
 ## 🛠️ Data Modeling & Interactivity
-* **ETL Engine:** Engineered using Power Query (M) for conditional age grouping, revenue value banding, and data transformation[cite: 10, 12, 15].
+* **ETL Engine:** Engineered using Power Query (M) for conditional age grouping, revenue value banding, and data transformation.
 * **Cross-Filtering:** Implemented data modeling allowing seamless propagation across dynamic timeline filters and slicers.
