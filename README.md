@@ -5,7 +5,7 @@ End-to-end commercial Power BI analytics platform evaluating multi-category reta
 ---
 
 ## 📄 Executive Report & Portfolio Assets
-* **Interactive PDF Report:** [Download High-Res PDF Report](docs/Retail_Sales_Insight_BI_2023.pdf)
+* **Interactive PDF Report:** [Download High-Res PDF Report](Retail_Sales_Insight_BI_2023.pdf)
 * **Power Query ETL Pipelines:** 
   * `01_Retail_Sales_Fact_ETL.pq` (Data cleaning, date enrichment, and age banding)
   * `02_Customer_Band_Summary.pq` (Customer value tier aggregations)
@@ -25,7 +25,7 @@ End-to-end commercial Power BI analytics platform evaluating multi-category reta
 
 ### 1. Executive Overview
 ![Executive Overview](01 Retail Sales Analytics.png)
-* **High-Level KPI Tracking:** Monitors annual revenue trends, average selling price (€201.54), and order volumes (Average Qty: 3)[cite: 9].
+* **High-Level KPI Tracking:** Monitors annual revenue trends, average selling price (€201.54), and order volumes (Average Qty: 3).
 * **Seasonality & Demographics:** Identifies peak sales velocity periods and captures a gender revenue split showing Male spend at 56.62% (€25,305) versus Female at 43.38% (€19,385).
 
 ### 2. Customer Behavior Drivers
